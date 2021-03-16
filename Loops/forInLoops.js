@@ -12,15 +12,15 @@ let student = {
 }
 
 for (item in student) {//item could be anything, just a place holder
-    console.log(item);
-    console.log(student[item]);
+    console.log(item);//With this active variable printed, name, awesome, etc.
+    console.log(student[item]);//"Peter" true, etc printed
 }
 
 let catArray = ["tabby","shorthair","burmese","Maine coon","rag doll"];
 
 for (cat in catArray){
-    console.log(cat);
-    console.log(catArray[cat]);
+    console.log(cat);//Prints array number
+    console.log(catArray[cat]);//Prints array strings
 }
 
 //Fix Capitalization

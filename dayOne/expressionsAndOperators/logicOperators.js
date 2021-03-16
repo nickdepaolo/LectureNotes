@@ -2,9 +2,9 @@
 let x = 1;
 let y = 1;
 
-//x = x + 1
-//y += 1
-//console.log(x, y);
+x = x + 1
+y += 1
+console.log(x, y);
 
 //Subraction Operator
 //x = x - 1;
@@ -26,9 +26,9 @@ let y = 1;
 //console.log(x, y);
 
 //Exponential Operator
-x = x ** 100;
+/*x = x ** 100;
 y **= 100;
-console.log(x, y);
+console.log(x, y);*/
 
 
 

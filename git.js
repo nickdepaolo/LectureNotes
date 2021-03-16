@@ -51,7 +51,7 @@ In order to update the github repository with any changes made on your local mac
 3. git commit -m "message here explaining changes"
 4. git push origin main
 */
-Collapse
+
 
 
 
